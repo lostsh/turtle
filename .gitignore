@@ -1,6 +1,8 @@
-.iml
-.xml
-.idea
-*.iml
+# editor files
+.idea/
+.idea/*.*
+.idea/.xml
+.idea/.iml
 *.xml
-*.idea
+*.iml
+ 
